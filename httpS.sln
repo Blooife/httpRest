@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "httpS", "httpS\httpS.csproj", "{EA547626-5A35-42A0-ACAF-56CBD0C0315F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{A8D61E85-E510-439B-80AE-30233792FC1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA547626-5A35-42A0-ACAF-56CBD0C0315F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA547626-5A35-42A0-ACAF-56CBD0C0315F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA547626-5A35-42A0-ACAF-56CBD0C0315F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA547626-5A35-42A0-ACAF-56CBD0C0315F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D61E85-E510-439B-80AE-30233792FC1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D61E85-E510-439B-80AE-30233792FC1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D61E85-E510-439B-80AE-30233792FC1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D61E85-E510-439B-80AE-30233792FC1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

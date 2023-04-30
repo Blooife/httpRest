@@ -1,0 +1,15 @@
+C:\Users\Asus\RiderProjects\httpS\httpS\bin\Debug\net7.0\httpS.exe
+C:\Users\Asus\RiderProjects\httpS\httpS\bin\Debug\net7.0\httpS.deps.json
+C:\Users\Asus\RiderProjects\httpS\httpS\bin\Debug\net7.0\httpS.runtimeconfig.json
+C:\Users\Asus\RiderProjects\httpS\httpS\bin\Debug\net7.0\httpS.dll
+C:\Users\Asus\RiderProjects\httpS\httpS\bin\Debug\net7.0\httpS.pdb
+C:\Users\Asus\RiderProjects\httpS\httpS\obj\Debug\net7.0\httpS.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\httpS\httpS\obj\Debug\net7.0\httpS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\RiderProjects\httpS\httpS\obj\Debug\net7.0\httpS.AssemblyInfoInputs.cache
+C:\Users\Asus\RiderProjects\httpS\httpS\obj\Debug\net7.0\httpS.AssemblyInfo.cs
+C:\Users\Asus\RiderProjects\httpS\httpS\obj\Debug\net7.0\httpS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\httpS\httpS\obj\Debug\net7.0\httpS.dll
+C:\Users\Asus\RiderProjects\httpS\httpS\obj\Debug\net7.0\refint\httpS.dll
+C:\Users\Asus\RiderProjects\httpS\httpS\obj\Debug\net7.0\httpS.pdb
+C:\Users\Asus\RiderProjects\httpS\httpS\obj\Debug\net7.0\httpS.genruntimeconfig.cache
+C:\Users\Asus\RiderProjects\httpS\httpS\obj\Debug\net7.0\ref\httpS.dll
